@@ -21,7 +21,8 @@ header div {
 }
 
 p{
-    float: right;
+    display: inline;
+    margin-left: 450px;
     
 }
 img{
